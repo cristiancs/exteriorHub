@@ -8,14 +8,13 @@ load('api_sys.js');
 load('api_timer.js');
 load('ds18b20.js');
 
-
 // Switchs
 
 let bombaPiscinaPin = 16; // D0
 let bombaTinajaPin = 5;  // D1
 let luzInteriorPin = 4; // D2
 let luzPatioPin = 0;  // D3
-let Polaridad = 14; // D5
+let PolaridadPin = 14; // D5
 let GasPin = 13; // D7
 
 
@@ -26,14 +25,8 @@ GPIO.set_mode(luzPatioPin, GPIO.MODE_OUTPUT);
 
 
 
-GPIO.set_mode(Polaridad, GPIO.MODE_INPUT);
+GPIO.set_mode(PolaridadPin, GPIO.MODE_INPUT);
 GPIO.set_mode(GasPin, GPIO.MODE_INPUT);
-
-
-GPIO.write(bombaPiscinaPin, 1);
-GPIO.write(bombaTinajaPin, 1);
-GPIO.write(luzInteriorPin, 1);
-GPIO.write(luzPatioPin, 1);
 
 function mensajes(conn, topic, msg){
   
@@ -93,8 +86,6 @@ MQTT.sub("/exterior/bomba_tinaja", mensajes, null);
 MQTT.sub("/exterior/luz_patio", mensajes, null);
 MQTT.sub("/exterior/luz_interior", mensajes, null);
 MQTT.sub("/exterior/polaridad", mensajes, null);
-
-
 
 
 
