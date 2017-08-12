@@ -1,0 +1,330 @@
+The flag --module is not given for the module "mjs", going to use the repository
+Repository "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13" does not exist, cloning...
+
+The flag --repo is not given, going to use mongoose-os repository
+Sources: [/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/onewire-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/onewire-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/esp8266/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/esp8266/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/http-server-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/http-server-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/common_gpio/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/common_gpio/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-client-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-client-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-server-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-server-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-mqtt-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-mqtt-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-config-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-config-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-fs-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-fs-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-gpio-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-gpio-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-ota-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-ota-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-uart-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-uart-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/common_gpio/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/common_gpio/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/deps_init.c]
+Building...
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525" to "/app"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mongoose-os-1.13" to "/mongoose-os"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mongoose-os-1.13" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mongoose-os-1.13"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/onewire-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/onewire-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/esp8266/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/esp8266/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/http-server-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/http-server-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/common_gpio" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/common_gpio"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-client-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-client-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-server-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-server-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-mqtt-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-mqtt-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-config-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-config-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-fs-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-fs-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-gpio-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-gpio-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-ota-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-ota-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-uart-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-uart-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/common_gpio" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/common_gpio"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/src" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/src"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs/lib" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs/lib"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/mjs_fs" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/mjs_fs"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/mjs_fs" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/mjs_fs"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/mjs_fs" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/mjs_fs"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/mjs_fs" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/mjs_fs"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/mjs_fs" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/mjs_fs"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/fs" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/fs"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/fs" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/fs"
+
+mount from "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen" to "/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen"
+
+Docker arguments: run --rm -i -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-fs-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-fs-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mongoose-os-1.13:/mongoose-os -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13 -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-gpio-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-gpio-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/mjs_fs:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/mjs_fs -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-server-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-server-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-uart-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-uart-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/fs:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/fs -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/fs:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/fs -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/http-server-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/http-server-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-mqtt-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-mqtt-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-config-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-config-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-client-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-client-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mongoose-os-1.13:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mongoose-os-1.13 -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/common_gpio:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/common_gpio -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/esp8266/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/esp8266/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-ota-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-ota-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs/lib:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs/lib -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/mjs_fs:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/mjs_fs -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/onewire-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/onewire-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/src -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/common_gpio:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/common_gpio -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/mjs_fs:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/mjs_fs -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/mjs_fs:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/mjs_fs -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/mjs_fs:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/mjs_fs -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525:/app -v /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src:/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src --user 0:0 docker.cesanta.com/esp8266-build:2.1.0-1.5.0-r3 /bin/bash -c nice make '-j' '16' '-C' '/app' '-f' '/mongoose-os/fw/platforms/esp8266/Makefile.build' 'MGOS_HAVE_I2C=1' 'MGOS_HAVE_RPC_MQTT=1' 'APP_BIN_LIBS=' 'MGOS_ENABLE_UPDATER=1' 'MGOS_HAVE_ARDUINO_ONEWIRE=1' 'BUILD_DIR=build/objs' 'APP_CXXFLAGS=-DMGOS_HAVE_RPC_MQTT=1 -DMGOS_HAVE_RPC_SERVICE_FS=1 -DMGOS_HAVE_I2C=1 -DMGOS_HAVE_RPC_SERVICE_OTA=1 -DMGOS_ENABLE_FILE_UPLOAD=1 -DMGOS_HAVE_RPC_COMMON=1 -DARDUINO=150 -DMGOS_ENABLE_TUNNEL=0 -DMGOS_HAVE_OTA_HTTP_SERVER=1 -DMGOS_WIFI_ENABLE_AP_STA=1 -DMGOS_HAVE_OTA_HTTP_CLIENT=1 -DMGOS_HAVE_RPC_SERVICE_GPIO=1 -DF_CPU=160000000 -DMGOS_ENABLE_SYS_SERVICE=1 -DMGOS_HAVE_SPI=1 -DMGOS_HAVE_WIFI=1 -DMGOS_ENABLE_WEB_CONFIG=0 -DMGOS_HAVE_MJS=1 -DMGOS_HAVE_RPC_SERVICE_CONFIG=1 -DMGOS_ENABLE_RPC_CHANNEL_WS=1 -DMGOS_HAVE_ARDUINO_COMPAT=1 -DMGOS_HAVE_RPC_UART=1 -DMGOS_ENABLE_RPC_CHANNEL_HTTP=1 -DMGOS_HAVE_MQTT=1 -DMGOS_HAVE_ONEWIRE=1 -DMGOS_HAVE_ARDUINO_ONEWIRE=1 -DMGOS_HAVE_HTTP_SERVER=1 -DMG_ENABLE_MQTT=1 -DESP8266=1' 'APP_SOURCES=/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/onewire-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/onewire-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/esp8266/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/esp8266/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/http-server-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/http-server-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/common_gpio/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/common_gpio/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-client-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-client-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-server-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-server-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-mqtt-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-mqtt-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-config-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-config-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-fs-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-fs-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-gpio-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-gpio-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-ota-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-ota-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-uart-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-uart-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/common_gpio/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/common_gpio/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/src/*.c /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/src/*.cpp /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/deps_init.c' 'FFI_SYMBOLS=' 'GEN_DIR=/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen' 'APP_CONF_SCHEMA=/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/mos_conf_schema.yml' 'MGOS_HAVE_RPC_UART=1' 'MGOS_ENABLE_I2C_GPIO=1' 'MGOS_HAVE_SPI=1' 'MANIFEST_FINAL=/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/mos_final.yml' 'MGOS_ENABLE_SPI_GPIO=1' 'MGOS_HAVE_RPC_SERVICE_FS=1' 'MGOS_HAVE_RPC_SERVICE_GPIO=1' 'MGOS_HAVE_HTTP_SERVER=1' 'MGOS_HAVE_WIFI=1' 'FS_STAGING_DIR=build/fs' 'MGOS_WIFI_ENABLE_AP_STA=1' 'MGOS_HAVE_OTA_HTTP_SERVER=1' 'MGOS_HAVE_RPC_SERVICE_CONFIG=1' 'APP_FS_FILES=/fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/* /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs/lib/api_*.js /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/mjs_fs/* /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/mjs_fs/* /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/mjs_fs/* /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/mjs_fs/* /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/mjs_fs/* /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/fs/* /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/fs/*' 'MGOS_HAVE_RPC_COMMON=1' 'MGOS_PATH=/mongoose-os' 'MGOS_HAVE_RPC_SERVICE_OTA=1' 'MGOS_HAVE_ONEWIRE=1' 'MGOS_HAVE_MJS=1' 'APP_CFLAGS=-DMGOS_ENABLE_RPC_CHANNEL_WS=1 -DMGOS_HAVE_ARDUINO_COMPAT=1 -DMGOS_ENABLE_WEB_CONFIG=0 -DMGOS_HAVE_MJS=1 -DMGOS_HAVE_RPC_SERVICE_CONFIG=1 -DMGOS_ENABLE_RPC_CHANNEL_HTTP=1 -DMGOS_HAVE_MQTT=1 -DMGOS_HAVE_RPC_UART=1 -DMG_ENABLE_MQTT=1 -DESP8266=1 -DMGOS_HAVE_ONEWIRE=1 -DMGOS_HAVE_ARDUINO_ONEWIRE=1 -DMGOS_HAVE_HTTP_SERVER=1 -DMGOS_ENABLE_FILE_UPLOAD=1 -DMGOS_HAVE_RPC_COMMON=1 -DMGOS_HAVE_RPC_MQTT=1 -DMGOS_HAVE_RPC_SERVICE_FS=1 -DMGOS_HAVE_I2C=1 -DMGOS_HAVE_RPC_SERVICE_OTA=1 -DMGOS_WIFI_ENABLE_AP_STA=1 -DMGOS_HAVE_OTA_HTTP_CLIENT=1 -DARDUINO=150 -DMGOS_ENABLE_TUNNEL=0 -DMGOS_HAVE_OTA_HTTP_SERVER=1 -DF_CPU=160000000 -DMGOS_ENABLE_SYS_SERVICE=1 -DMGOS_HAVE_RPC_SERVICE_GPIO=1 -DMGOS_HAVE_SPI=1 -DMGOS_HAVE_WIFI=1' 'APP=example-arduino-onewire-js-1.13' 'FW_DIR=build/fw' 'MGOS_HAVE_MQTT=1' 'MGOS_HAVE_OTA_HTTP_CLIENT=1' 'APP_VERSION=1.0' 'PLATFORM=esp8266' 'MGOS_HAVE_ARDUINO_COMPAT=1'
+make: Entering directory '/app'
+  MKDIR /app/build/objs
+  GEN   /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/sys_config.c
+  MKDIR /app/build/fw
+  MKDIR /app/build/objs/fw_temp
+  GEN   /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/sys_ro_vars.c
+CC esptool2.c
+gcc -O2 -Wall -c esptool2.c -o /app/build/objs/esptool2.o
+CC esptool2_elf.c
+gcc -O2 -Wall -c esptool2_elf.c -o /app/build/objs/esptool2_elf.o
+  GEN   /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/ffi_exports.c
+  GEN   /mongoose-os/fw/platforms/esp8266/ld/non_os.ld (0xffff0 @ 0x40200010) -> /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/0x100000.ld
+  GEN   /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/sys_config_schema.json
+  GEN   /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/sys_ro_vars_schema.json
+make[1]: Entering directory '/app'
+make[1]: warning: -jN forced in submake: disabling jobserver mode.
+  CC    ./src/netif/etharp.c -> /app/build/objs/lwip/etharp.o
+  CC    ./src/core/mem.c -> /app/build/objs/lwip/mem.o
+  CC    ./src/core/dhcp.c -> /app/build/objs/lwip/dhcp.o
+  CC    ./src/core/sys_arch.c -> /app/build/objs/lwip/sys_arch.o
+  CC    ./src/core/mdns.c -> /app/build/objs/lwip/mdns.o
+LD /app/build/objs/esptool2
+gcc -o /app/build/objs/esptool2 /app/build/objs/esptool2.o /app/build/objs/esptool2_elf.o
+  CC    ./src/core/init.c -> /app/build/objs/lwip/init.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_cache.c -> /app/build/objs/esp_cache.c.o
+  CXX    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src/WString.cpp -> /app/build/objs/WString.cpp.o
+  CC    ./src/core/memp.c -> /app/build/objs/lwip/memp.o
+  CXX    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src/Print.cpp -> /app/build/objs/Print.cpp.o
+CC rboot-stage2a.c
+  CXX    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-compat-1.13/src/mgos_arduino.cpp -> /app/build/objs/mgos_arduino.cpp.o
+  CC    ./src/core/sys.c -> /app/build/objs/lwip/sys.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src/mgos_arduino_onewire_c.c -> /app/build/objs/mgos_arduino_onewire_c.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/onewire-1.13/src/mgos_onewire.c -> /app/build/objs/mgos_onewire.c.o
+LD /app/build/objs/rboot/rboot-stage2a.elf
+E2 /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/rboot-hex2a.h
+  CXX    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src/OneWire.cpp -> /app/build/objs/OneWire.cpp.o
+CC rboot.c
+  CXX    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/src/mgos_arduino_onewire.cpp -> /app/build/objs/mgos_arduino_onewire.cpp.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/src/mgos_wifi.c -> /app/build/objs/mgos_wifi.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/wifi-1.13/esp8266/src/esp_wifi.c -> /app/build/objs/esp_wifi.c.o
+  CC    ./src/core/tcp_in.c -> /app/build/objs/lwip/tcp_in.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/http-server-1.13/src/mgos_http_server.c -> /app/build/objs/mgos_http_server.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/mgos_i2c.c -> /app/build/objs/mgos_i2c.c.o
+  CC    ./src/core/dns.c -> /app/build/objs/lwip/dns.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/src/common_gpio/mgos_i2c_gpio.c -> /app/build/objs/mgos_i2c_gpio.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/src/mos_mjs.c -> /app/build/objs/mos_mjs.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs.c -> /app/build/objs/mjs.c.o
+  CC    ./src/core/raw.c -> /app/build/objs/lwip/raw.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/src/esp8266_mjs.c -> /app/build/objs/esp8266_mjs.c.o
+LD /app/build/objs/rboot/rboot.elf
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/src/mgos_mqtt.c -> /app/build/objs/mgos_mqtt.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-client-1.13/src/mgos_ota_http_client.c -> /app/build/objs/mgos_ota_http_client.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/ota-http-server-1.13/src/mgos_ota_http_server.c -> /app/build/objs/mgos_ota_http_server.c.o
+E2 /app/build/objs/rboot/rboot.bin
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc/mg_rpc_channel_http.c -> /app/build/objs/mg_rpc_channel_http.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc/mg_rpc.c -> /app/build/objs/mg_rpc.c.o
+  CC    ./src/core/tcp.c -> /app/build/objs/lwip/tcp.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc/mg_rpc_channel_tcp_common.c -> /app/build/objs/mg_rpc_channel_tcp_common.c.o
+  CC    ./src/core/sntp.c -> /app/build/objs/lwip/sntp.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mg_rpc/mg_rpc_channel_ws.c -> /app/build/objs/mg_rpc_channel_ws.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-mqtt-1.13/src/mgos_rpc_channel_mqtt.c -> /app/build/objs/mgos_rpc_channel_mqtt.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/src/mgos_rpc.c -> /app/build/objs/mgos_rpc.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-config-1.13/src/mgos_service_config.c -> /app/build/objs/mgos_service_config.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-fs-1.13/src/mgos_service_filesystem.c -> /app/build/objs/mgos_service_filesystem.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-gpio-1.13/src/mgos_gpio_service.c -> /app/build/objs/mgos_gpio_service.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-service-ota-1.13/src/mgos_rpc_service_ota.c -> /app/build/objs/mgos_rpc_service_ota.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-uart-1.13/src/mgos_rpc_channel_uart.c -> /app/build/objs/mgos_rpc_channel_uart.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/mgos_spi.c -> /app/build/objs/mgos_spi.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/mgos_spi_mjs.c -> /app/build/objs/mgos_spi_mjs.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/src/main.c -> /app/build/objs/main.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/src/common_gpio/mgos_spi_gpio.c -> /app/build/objs/mgos_spi_gpio.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/deps_init.c -> /app/build/objs/deps_init.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/ffi_exports.c -> /app/build/objs/ffi_exports.c.o
+  CC    ./src/core/pbuf.c -> /app/build/objs/lwip/pbuf.o
+  CC    /mongoose-os/common/cs_file.c -> /app/build/objs/cs_file.c.o
+  CC    ./src/core/netif.c -> /app/build/objs/lwip/netif.o
+  CC    /mongoose-os/common/cs_rbuf.c -> /app/build/objs/cs_rbuf.c.o
+  CC    /mongoose-os/fw/src/mgos_config.c -> /app/build/objs/mgos_config.c.o
+  CC    /mongoose-os/fw/src/mgos_gpio.c -> /app/build/objs/mgos_gpio.c.o
+  CC    /mongoose-os/fw/src/mgos_hooks.c -> /app/build/objs/mgos_hooks.c.o
+  CC    /mongoose-os/fw/src/mgos_init.c -> /app/build/objs/mgos_init.c.o
+  CC    /mongoose-os/fw/src/mgos_timers_mongoose.c -> /app/build/objs/mgos_timers_mongoose.c.o
+  CC    /mongoose-os/fw/src/mgos_mmap_esp.c -> /app/build/objs/mgos_mmap_esp.c.o
+  CC    ./src/core/stats.c -> /app/build/objs/lwip/stats.o
+  CC    /mongoose-os/fw/src/mgos_mongoose.c -> /app/build/objs/mgos_mongoose.c.o
+  CC    /mongoose-os/fw/src/mgos_sys_config.c -> /app/build/objs/mgos_sys_config.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/sys_config.c -> /app/build/objs/sys_config.c.o
+  CC    ./src/core/timers.c -> /app/build/objs/lwip/timers.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/sys_ro_vars.c -> /app/build/objs/sys_ro_vars.c.o
+  CC    ./src/core/def.c -> /app/build/objs/lwip/def.o
+  CC    /mongoose-os/fw/src/mgos_uart.c -> /app/build/objs/mgos_uart.c.o
+  CC    /mongoose-os/fw/src/mgos_utils.c -> /app/build/objs/mgos_utils.c.o
+  CC    /mongoose-os/fw/src/mgos_vfs.c -> /app/build/objs/mgos_vfs.c.o
+  CC    /mongoose-os/fw/src/mgos_vfs_dev.c -> /app/build/objs/mgos_vfs_dev.c.o
+  CC    ./src/core/tcp_out.c -> /app/build/objs/lwip/tcp_out.o
+  CC    /mongoose-os/fw/src/mgos_vfs_fs_spiffs.c -> /app/build/objs/mgos_vfs_fs_spiffs.c.o
+  CC    ./src/core/udp.c -> /app/build/objs/lwip/udp.o
+  CC    /mongoose-os/common/cs_crc32.c -> /app/build/objs/cs_crc32.c.o
+  CC    /mongoose-os/fw/src/mgos_dlsym.c -> /app/build/objs/mgos_dlsym.c.o
+  CC    ./src/core/ipv4/ip_frag.c -> /app/build/objs/lwip/ip_frag.o
+  CC    /mongoose-os/common/platforms/esp8266/rboot/rboot/appcode/rboot-bigflash.c -> /app/build/objs/rboot-bigflash.c.o
+  CC    /mongoose-os/common/platforms/esp8266/rboot/rboot/appcode/rboot-api.c -> /app/build/objs/rboot-api.c.o
+  CC    ./src/core/ipv4/inet.c -> /app/build/objs/lwip/inet.o
+  CC    /mongoose-os/common/json_utils.c -> /app/build/objs/json_utils.c.o
+  CC    /mongoose-os/common/umm_malloc/umm_malloc.c -> /app/build/objs/umm_malloc.c.o
+  CC    /mongoose-os/mongoose/mongoose.c -> /app/build/objs/mongoose.c.o
+  CC    /mongoose-os/frozen/frozen.c -> /app/build/objs/frozen.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_adc.c -> /app/build/objs/esp_adc.c.o
+  CC    ./src/core/ipv4/ip_addr.c -> /app/build/objs/lwip/ip_addr.o
+  CC    ./src/core/ipv4/igmp.c -> /app/build/objs/lwip/igmp.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_config.c -> /app/build/objs/esp_config.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_coredump.c -> /app/build/objs/esp_coredump.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_debug.c -> /app/build/objs/esp_debug.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_exc.c -> /app/build/objs/esp_exc.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_flash_writer.c -> /app/build/objs/esp_flash_writer.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_fs.c -> /app/build/objs/esp_fs.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_gpio.c -> /app/build/objs/esp_gpio.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_hal.c -> /app/build/objs/esp_hal.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_heap_trace.c -> /app/build/objs/esp_heap_trace.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_hw_wdt.c -> /app/build/objs/esp_hw_wdt.c.o
+  CC    ./src/core/ipv4/ip.c -> /app/build/objs/lwip/ip.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_libc.c -> /app/build/objs/esp_libc.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_main.c -> /app/build/objs/esp_main.c.o
+  CC    ./src/core/ipv4/autoip.c -> /app/build/objs/lwip/autoip.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_mdns.c -> /app/build/objs/esp_mdns.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_periph.c -> /app/build/objs/esp_periph.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_uart.c -> /app/build/objs/esp_uart.c.o
+  CC    ./src/core/ipv4/inet_chksum.c -> /app/build/objs/lwip/inet_chksum.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_updater.c -> /app/build/objs/esp_updater.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_vfs_dev_sysflash.c -> /app/build/objs/esp_vfs_dev_sysflash.c.o
+  CC    /mongoose-os/common/spiffs/spiffs_cache.c -> /app/build/objs/spiffs_cache.c.o
+  CC    /mongoose-os/common/spiffs/spiffs_gc.c -> /app/build/objs/spiffs_gc.c.o
+  CC    /mongoose-os/common/spiffs/spiffs_nucleus.c -> /app/build/objs/spiffs_nucleus.c.o
+  CC    ./src/core/ipv4/icmp.c -> /app/build/objs/lwip/icmp.o
+  CC    /mongoose-os/common/spiffs/spiffs_check.c -> /app/build/objs/spiffs_check.c.o
+  CC    /mongoose-os/common/spiffs/spiffs_hydrogen.c -> /app/build/objs/spiffs_hydrogen.c.o
+  CC    /mongoose-os/common/platforms/esp8266/esp_crypto.c -> /app/build/objs/esp_crypto.c.o
+  CC    /mongoose-os/common/platforms/esp8266/esp_umm_malloc.c -> /app/build/objs/esp_umm_malloc.c.o
+  CC    ./src/api/netbuf.c -> /app/build/objs/lwip/netbuf.o
+  CC    /mongoose-os/fw/src/mgos_debug.c -> /app/build/objs/mgos_debug.c.o
+  CC    /mongoose-os/fw/src/mgos_net.c -> /app/build/objs/mgos_net.c.o
+  CC    ./src/api/api_lib.c -> /app/build/objs/lwip/api_lib.o
+  CC    ./src/api/tcpip.c -> /app/build/objs/lwip/tcpip.o
+  CC    ./src/api/netifapi.c -> /app/build/objs/lwip/netifapi.o
+  CC    /mongoose-os/fw/src/mgos_bitbang.c -> /app/build/objs/mgos_bitbang.c.o
+  CC    /mongoose-os/fw/src/mgos_sntp.c -> /app/build/objs/mgos_sntp.c.o
+  CC    /mongoose-os/fw/src/mgos_updater_common.c -> /app/build/objs/mgos_updater_common.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_exc_non_os.c -> /app/build/objs/esp_exc_non_os.c.o
+  CC    ./src/api/netdb.c -> /app/build/objs/lwip/netdb.o
+  AS    /mongoose-os/fw/platforms/esp8266/src/esp_exc_vectors.S -> /app/build/objs/esp_exc_vectors.S.o
+  CC    ./src/api/err.c -> /app/build/objs/lwip/err.o
+  AS    /mongoose-os/fw/platforms/esp8266/src/esp_nsleep100.S -> /app/build/objs/esp_nsleep100.S.o
+  CC    ./src/api/api_msg.c -> /app/build/objs/lwip/api_msg.o
+  CC    ./src/api/sockets.c -> /app/build/objs/lwip/sockets.o
+  CP    /mongoose-os/fw/skeleton/fs/ca.pem -> build/fs
+  CP    /mongoose-os/fw/skeleton/fs/index.html -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_grove.js -> build/fs
+  CC    ./espressif/app/espconn.c -> /app/build/objs/lwip/espconn.o
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_bitbang.js -> build/fs
+  CC    ./espressif/app/espconn_buf.c -> /app/build/objs/lwip/espconn_buf.o
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_log.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_uart.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/init.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_http.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_timer.js -> build/fs
+  CC    ./espressif/app/netio.c -> /app/build/objs/lwip/netio.o
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_net.js -> build/fs
+  CC    ./espressif/app/espconn_tcp.c -> /app/build/objs/lwip/espconn_tcp.o
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_config.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_neopixel.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_sys.js -> build/fs
+  CC    ./espressif/app/ping.c -> /app/build/objs/lwip/ping.o
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_adc.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/fs/api_gpio.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs/lib/api_file.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs/lib/api_dataview.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/modules/mjs-1.13/mjs/lib/api_math.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/arduino-onewire-1.13/mjs_fs/api_arduino_onewire.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/i2c-1.13/mjs_fs/api_i2c.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mqtt-1.13/mjs_fs/api_mqtt.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/rpc-common-1.13/mjs_fs/api_rpc.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/spi-1.13/mjs_fs/api_spi.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/fs/api_esp8266.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/local_libs/mjs-1.13/esp8266/fs/api_arch_uart.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/fs/ds18b20.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/fs/init.js -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/conf0.json -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/sys_config_schema.json -> build/fs
+  CP    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/sys_ro_vars_schema.json -> build/fs
+  MKFS  /usr/local/bin/mkspiffs8 262144 build/fs -> /app/build/objs/fw_temp/fs.bin
+  CC    ./espressif/app/dhcpserver.c -> /app/build/objs/lwip/dhcpserver.o
+     Adding api_log.js: 1862
+     Adding api_timer.js: 1344
+     Adding api_dataview.js: 3837
+     Adding api_uart.js: 5772
+     Adding api_arduino_onewire.js: 2754
+     Adding api_math.js: 549
+     Adding api_neopixel.js: 2191
+     Adding api_file.js: 1954
+     Adding api_esp8266.js: 228
+     Adding index.html: 825
+     Adding ds18b20.js: 1892
+     Adding api_bitbang.js: 815
+     Adding conf0.json: 3236
+     Adding api_grove.js: 1316
+     Adding api_arch_uart.js: 651
+     Adding api_net.js: 5074
+     Adding init.js: 3556
+     Adding api_spi.js: 3980
+     Adding api_i2c.js: 2580
+     Adding ca.pem: 9455
+     Adding api_sys.js: 1612
+     Adding api_rpc.js: 2373
+     Adding api_config.js: 1519
+     Adding api_http.js: 3770
+     Adding sys_ro_vars_schema.json: 332
+     Adding api_mqtt.js: 2617
+     Adding api_gpio.js: 2731
+     Adding api_adc.js: 286
+     Adding sys_config_schema.json: 9206
+     Image stats: size=262144, space: total=233681, used=89356, free=144325
+  CC    ./espressif/app/espconn_mdns.c -> /app/build/objs/lwip/espconn_mdns.o
+  CC    ./espressif/app/espconn_udp.c -> /app/build/objs/lwip/espconn_udp.o
+  AR /app/build/objs/lwip/liblwip_cs.a
+make[1]: Leaving directory '/mongoose-os/common/platforms/esp8266/lwip'
+  GEN   /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/build_info.c
+  GEN   /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/mg_build_info.c
+  AR    /app/build/objs/mongoose-os.a
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/build_info.c -> /app/build/objs/build_info.c.o
+  CC    /fwbuild-volumes/1.13/apps/example-arduino-onewire-js-1.13/esp8266/build_contexts/build_ctx_359865525/build/gen/mg_build_info.c -> /app/build/objs/mg_build_info.c.o
+  LD    /app/build/objs/example-arduino-onewire-js-1.13.elf
+  FW    /app/build/objs/example-arduino-onewire-js-1.13.elf -> /app/build/objs/example-arduino-onewire-js-1.13.bin
+  Generating breakdown
+  GEN    /app/build/objs/fw_temp/manifest.json
+  ZIP    /app/build/fw/example-arduino-onewire-js-1.13-esp8266-last.zip
+     Adding /app/build/objs/fw_temp/esp_init_data_default.bin
+     Adding /app/build/objs/fw_temp/example-arduino-onewire-js-1.13.bin
+     Adding /app/build/objs/fw_temp/fs.bin
+     Adding /app/build/objs/fw_temp/rboot.bin
+  Built example-arduino-onewire-js-1.13/esp8266 version 1.0 (20170812-204825/???)
+make: Leaving directory '/app'
+Success, built example-arduino-onewire-js-1.13/esp8266 version 1.0 (20170812-204825/???).
+Firmware saved to build/fw.zip
